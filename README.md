@@ -11,7 +11,7 @@ I'm @ArthurMinchev! web development student and marketing traffic manager.
 - 🎓 I’m currently learning: - Web development full stack - GrowDev and JavaScript - Udemy.
 - 💻 I’m currently working on websites and online advertising.
 - 🤝 I’m available for job and freelance.
-- 💬 Ask me about: tech, Photography, motorcycles, how things work, cats...
+- 💬 Ask me about: tech, photography, motorcycles, how things work, cats...
 - ⚡ Languages: HTML, CSS, JavaScript
 <br>
 <br>
